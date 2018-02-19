@@ -3,6 +3,7 @@
 # Homework 2
 
 ## Commits (first is the latest):
+* commit 10
 * commit 2
 * commit 1
 * commit 0
@@ -17,3 +18,28 @@ Note: last is latest; omits "vi readme.md" commands in between each "git add ." 
 5. git commit // *commit 1*
 6. git add .
 7. git commit // *commit 2*
+8. git log
+9. git checkout <commit 0 hash>
+10. git checkout -b bug-fix
+10. git add .
+11. git commit // *commit 3*
+12. git add .
+13. git commit // *commit 4*
+14. git merge master // resolve any conflicts with vi readme.md
+15. git add .
+16. git merge --continue // *commit 5*
+17. git add .
+18. git commit // *commit 6*
+19. git log
+20. git checkout <commit 4 hash>
+21. git checkout -b bug-fix-experimental
+22. git add .
+23. git commit // *commit 7*
+24. git add .
+25. git commit // *commit 8*
+26. git add .
+27. git commit // *commit 9*
+28. git log -g
+29. git checkout master
+30. git add .
+31. git commit // *commit 10*
