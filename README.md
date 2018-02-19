@@ -3,6 +3,7 @@
 # Homework 2
 
 ## Commits (first is the latest):
+* commit 2
 * commit 1
 * commit 0
 
@@ -14,3 +15,5 @@ Note: last is latest; omits "vi readme.md" commands in between each "git add ." 
 3. git commit README.md // *commit 0*
 4. git add . 
 5. git commit // *commit 1*
+6. git add .
+7. git commit // *commit 2*
