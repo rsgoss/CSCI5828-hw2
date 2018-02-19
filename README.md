@@ -3,6 +3,7 @@
 # Homework 2
 
 ## Commits (first is the latest):
+* commit 12
 * commit 11
 * commit 6
 * commit 5
@@ -53,3 +54,5 @@ Note: last is latest; omits "vi readme.md" commands in between each "git add ." 
 32. git merge bug-fix-experimental // resolve conflicts
 33. git add .
 34. git merge --continue // *commit 11*
+35. git add .
+36. git commit // * commit 12*
